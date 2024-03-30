@@ -1,5 +1,3 @@
 # stepik_auto_tests_course
 
-https://stepik.org/lesson/187065/step/7?unit=161976
-
-хоп хоп1
+В этом репозитории лежит решение домашней работы из модуля 2.1
